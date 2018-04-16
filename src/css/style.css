@@ -1,0 +1,7 @@
+ /* App Css */
+ .textStyle{font-size:12px}
+ .statusColor{color:red}
+ .dayText{font-size:13px;display:block;text-align:center}
+ .weekDayText{font-size:11px;margin-top:-6px;display:block;text-align:center}
+ .selectCursor{cursor: pointer}
+ .teamNameHeader{margin:0px;font-size:15px}
