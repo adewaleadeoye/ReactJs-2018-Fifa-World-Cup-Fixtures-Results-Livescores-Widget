@@ -1,7 +1,10 @@
  /* App Css */
- .textStyle{font-size:12px}
+ .textStyle{font-size:11px!important}
  .statusColor{color:red}
  .dayText{font-size:13px;display:block;text-align:center}
  .weekDayText{font-size:11px;margin-top:-6px;display:block;text-align:center}
  .selectCursor{cursor: pointer}
- .teamNameHeader{margin:0px;font-size:15px}
+ .teamNameHeader{margin:0px;font-size:14px}
+ .DayPicker-Day {font-size: 10px!important;}
+ .DayPicker-Caption > div {font-size: 11px!important;}
+ .DayPicker-Weekday {font-size: 11px!important;}
